@@ -1,0 +1,15 @@
+file_format: "1"
+id: bnicorne
+name: BNICORNE
+url:
+type: board
+arch: arm
+features:
+  - keys
+  - display
+outputs:
+  - usb
+  - ble
+siblings:
+  - bnicorne_left
+  - bnicorne_right
